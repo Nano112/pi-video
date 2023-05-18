@@ -1,0 +1,58 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "endExpand",
+      "targetTime": 0
+    },
+    {
+      "name": "startRandom",
+      "targetTime": 0
+    },
+    {
+      "name": "x_point_0",
+      "targetTime": 2
+    },
+    {
+      "name": "x_point_1",
+      "targetTime": 3
+    },
+    {
+      "name": "x_point_2",
+      "targetTime": 4
+    },
+    {
+      "name": "endXRandomPoints",
+      "targetTime": 4
+    },
+    {
+      "name": "xy_point_0",
+      "targetTime": 10
+    },
+    {
+      "name": "xy_point_1",
+      "targetTime": 12
+    },
+    {
+      "name": "xy_point_2",
+      "targetTime": 14.90713637631235
+    },
+    {
+      "name": "createQuandrant",
+      "targetTime": 17.7641108303146
+    },
+    {
+      "name": "startSimulation",
+      "targetTime": 20.52528704559238
+    },
+    {
+      "name": "endSimulation",
+      "targetTime": 34.15028704559396
+    },
+    {
+      "name": "endSample",
+      "targetTime": 36.15028704559396
+    }
+  ],
+  "seed": 1018347215
+}
